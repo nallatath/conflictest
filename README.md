@@ -1,2 +1,2 @@
 # conflictest
-updated from test
+update for conflictest
